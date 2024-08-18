@@ -1,0 +1,40 @@
+.Navbar-container{
+    border-bottom: 1px solid lightgray;
+    margin: 10px 0px;
+    margin-top: 20px;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 10px auto;
+    align-items: center;
+}
+.Instagram-logo{
+    width: 140px;
+}
+.Credential{
+    display: flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.Login{
+    background-color: rgb(0, 170, 255);
+    padding: 8px 18px;
+    border-radius: 7px ;
+}
+.Login-a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.signup{
+    padding: 8px 18px;
+}
+.signup-a{
+    color: rgb(0, 170, 255);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
